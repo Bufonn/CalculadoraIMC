@@ -8,7 +8,7 @@
 
 - Para baixar o repositório, utilize o comando:
 
-      git clone https://github.com/TyrenK/PAM--Ativ-CalculadoraIMC.git
+      git clone https://github.com/Bufonn/CalculadoraIMC.git
 - Entre no diretório do repositório
   
       cd CalculadoraIMC
